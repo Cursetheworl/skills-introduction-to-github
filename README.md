@@ -1,4 +1,4 @@
-<header>
+<LAMedia Music Group>
 
 <!--
   <<< Author notes: Course header >>>
